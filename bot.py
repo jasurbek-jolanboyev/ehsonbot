@@ -42,7 +42,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 # Environment variables with validation
-BOT_TOKEN = os.getenv("6335576043:AAG9s9vmorxeHakm-uZ5-Jb3SRZGqRX2e7I")
+BOT_TOKEN = os.getenv("6335576043:AAFMEtBcH-RZ-dXByEDhVhRDiEePg1_AIIY")
 ADMIN_ID = os.getenv("6060353145")
 CHANNEL_ID = os.getenv("3085828839")
 PAYMENT_FORM_URL = os.getenv("PAYMENT_FORM_URL", "/payment")
