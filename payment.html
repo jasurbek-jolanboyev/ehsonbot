@@ -1,0 +1,32 @@
+<!-- payment.html - HTML forma for frontend -->
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To'lov Qilish - E-Ehson</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
+        <h2 class="text-2xl font-bold mb-6 text-center">To'lov Qilish</h2>
+        <form action="https://my.click.uz/services/pay" method="get">
+            <input type="hidden" name="merchant_id" value="YOUR_MERCHANT_ID"> <!-- Clickdan olingan ID -->
+            <input type="hidden" name="service_id" value="YOUR_SERVICE_ID"> <!-- Clickdan olingan ID -->
+            <input type="hidden" name="merchant_user_id" value="YOUR_USER_ID"> <!-- Foydalanuvchi ID, masalan Telegram ID -->
+            <input type="hidden" name="transaction_param" value="YOUR_TRANSACTION_PARAM"> <!-- Qo'shimcha parametr -->
+            <input type="hidden" name="return_url" value="https://your-site.uz/success"> <!-- Muvaffaqiyat sahifasi -->
+            <input type="hidden" name="card_type" value="0"> <!-- 0 - Barcha kartalar -->
+
+            <div class="mb-4">
+                <label class="block text-sm font-medium mb-2">To'lov Miqdori (so'm)</label>
+                <input type="number" name="amount" value="10000" required class="w-full px-3 py-2 border rounded-lg">
+            </div>
+
+            <button type="submit" class="w-full bg-blue-600 text-white py-3 rounded-lg font-bold hover:bg-blue-700">
+                💳 To'lov Qilish
+            </button>
+        </form>
+    </div>
+</body>
+</html>

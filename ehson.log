@@ -1,0 +1,111 @@
+2025-10-05 15:44:01,805 - __main__ - INFO - Database initialized with test data.
+2025-10-05 15:44:01,860 - __main__ - INFO - Bot ishga tushmoqda...
+2025-10-05 15:44:01,860 - aiogram.dispatcher - INFO - Start polling
+2025-10-05 15:44:01,871 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.10:8000
+2025-10-05 15:44:01,871 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:44:02,403 - aiogram.dispatcher - INFO - Run polling for bot @Vscoder_bot id=6335576043 - 'Roʻyhatchixon ❤️'
+2025-10-05 15:44:02,627 - aiogram.event - INFO - Update id=322376001 is not handled. Duration 0 ms by bot id=6335576043
+2025-10-05 15:44:02,628 - aiogram.event - INFO - Update id=322376002 is not handled. Duration 0 ms by bot id=6335576043
+2025-10-05 15:44:02,987 - aiogram.event - INFO - Update id=322375998 is handled. Duration 364 ms by bot id=6335576043
+2025-10-05 15:44:03,007 - aiogram.event - INFO - Update id=322375994 is handled. Duration 395 ms by bot id=6335576043
+2025-10-05 15:44:03,033 - aiogram.event - INFO - Update id=322375997 is handled. Duration 411 ms by bot id=6335576043
+2025-10-05 15:44:03,051 - aiogram.event - INFO - Update id=322376000 is handled. Duration 425 ms by bot id=6335576043
+2025-10-05 15:44:03,091 - aiogram.event - INFO - Update id=322375995 is handled. Duration 472 ms by bot id=6335576043
+2025-10-05 15:44:03,104 - aiogram.event - INFO - Update id=322375996 is handled. Duration 483 ms by bot id=6335576043
+2025-10-05 15:44:03,144 - aiogram.event - INFO - Update id=322375999 is handled. Duration 520 ms by bot id=6335576043
+2025-10-05 15:44:10,510 - aiogram.event - INFO - Update id=322376003 is handled. Duration 198 ms by bot id=6335576043
+2025-10-05 15:44:13,784 - __main__ - ERROR - Donate xatosi: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/payment?user_id=6060353145' is invalid: Only HTTPS links are allowed
+2025-10-05 15:44:13,965 - aiogram.event - INFO - Update id=322376004 is handled. Duration 285 ms by bot id=6335576043
+2025-10-05 15:44:17,128 - aiogram.event - INFO - Update id=322376005 is not handled. Duration 0 ms by bot id=6335576043
+2025-10-05 15:44:19,601 - aiogram.event - INFO - Update id=322376006 is not handled. Duration 0 ms by bot id=6335576043
+2025-10-05 15:44:22,218 - aiogram.event - INFO - Update id=322376007 is not handled. Duration 0 ms by bot id=6335576043
+2025-10-05 15:44:23,698 - aiogram.event - INFO - Update id=322376008 is not handled. Duration 1 ms by bot id=6335576043
+2025-10-05 15:44:25,552 - aiogram.event - INFO - Update id=322376009 is not handled. Duration 1 ms by bot id=6335576043
+2025-10-05 15:44:27,089 - aiogram.event - INFO - Update id=322376010 is not handled. Duration 1 ms by bot id=6335576043
+2025-10-05 15:44:34,994 - __main__ - ERROR - Donate xatosi: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/payment?user_id=6060353145' is invalid: Only HTTPS links are allowed
+2025-10-05 15:44:35,144 - aiogram.event - INFO - Update id=322376011 is handled. Duration 252 ms by bot id=6335576043
+2025-10-05 15:45:27,449 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 15:45:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-05 16:07:42,285 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-10-05 16:07:42,289 - aiogram.dispatcher - INFO - Polling stopped for bot @Vscoder_bot id=6335576043 - 'Roʻyhatchixon ❤️'
+2025-10-05 16:07:42,289 - aiogram.dispatcher - INFO - Polling stopped
+2025-10-05 16:07:46,076 - __main__ - INFO - Database initialized with default and test data.
+2025-10-05 16:07:46,132 - __main__ - INFO - Bot ishga tushmoqda...
+2025-10-05 16:07:46,132 - aiogram.dispatcher - INFO - Start polling
+2025-10-05 16:07:46,196 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.10:8000
+2025-10-05 16:07:46,196 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 16:07:46,673 - aiogram.dispatcher - INFO - Run polling for bot @Vscoder_bot id=6335576043 - 'Roʻyhatchixon ❤️'
+2025-10-05 16:07:59,508 - __main__ - ERROR - Start command xatosi: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/webapp' is invalid: Only HTTPS links are allowed
+2025-10-05 16:07:59,638 - aiogram.event - INFO - Update id=322376012 is handled. Duration 730 ms by bot id=6335576043
+2025-10-05 16:08:03,488 - aiogram.event - INFO - Update id=322376013 is not handled. Duration 399 ms by bot id=6335576043
+2025-10-05 16:08:03,488 - aiogram.event - ERROR - Cause exception while process update id=322376013 by bot id=6335576043
+TelegramBadRequest: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/webapp' is invalid: Only HTTPS links are allowed
+Traceback (most recent call last):
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/bot.py", line 2875, in donate
+    await message.answer("Xayriya qilish uchun platformani oching:", reply_markup=webapp_keyboard)
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/serinaqu/Desktop/ehsonbot/ehsonbot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/webapp' is invalid: Only HTTPS links are allowed
+2025-10-05 16:08:09,677 - __main__ - ERROR - Start command xatosi: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/webapp' is invalid: Only HTTPS links are allowed
+2025-10-05 16:08:09,829 - aiogram.event - INFO - Update id=322376014 is handled. Duration 1594 ms by bot id=6335576043
+2025-10-05 16:08:39,528 - __main__ - ERROR - Start command xatosi: Telegram server says - Bad Request: inline keyboard button Web App URL 'http://127.0.0.1:8000/webapp' is invalid: Only HTTPS links are allowed
+2025-10-05 16:08:39,778 - aiogram.event - INFO - Update id=322376015 is handled. Duration 607 ms by bot id=6335576043
+2025-10-05 16:11:33,801 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-10-05 16:11:33,801 - aiogram.dispatcher - INFO - Polling stopped for bot @Vscoder_bot id=6335576043 - 'Roʻyhatchixon ❤️'
+2025-10-05 16:11:33,801 - aiogram.dispatcher - INFO - Polling stopped
